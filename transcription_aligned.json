@@ -1,0 +1,3994 @@
+{
+    "segments": [
+        {
+            "start": 0.009,
+            "end": 0.75,
+            "text": " Vì sao bạn không nên chơi trứng khoán?",
+            "words": [
+                {
+                    "word": "Vì",
+                    "start": 0.009,
+                    "end": 0.049,
+                    "score": 0.01
+                },
+                {
+                    "word": "sao",
+                    "start": 0.069,
+                    "end": 0.129,
+                    "score": 0.011
+                },
+                {
+                    "word": "bạn",
+                    "start": 0.149,
+                    "end": 0.209,
+                    "score": 0.01
+                },
+                {
+                    "word": "không",
+                    "start": 0.229,
+                    "end": 0.329,
+                    "score": 0.011
+                },
+                {
+                    "word": "nên",
+                    "start": 0.349,
+                    "end": 0.409,
+                    "score": 0.01
+                },
+                {
+                    "word": "chơi",
+                    "start": 0.429,
+                    "end": 0.509,
+                    "score": 0.01
+                },
+                {
+                    "word": "trứng",
+                    "start": 0.529,
+                    "end": 0.63,
+                    "score": 0.011
+                },
+                {
+                    "word": "khoán?",
+                    "start": 0.65,
+                    "end": 0.75,
+                    "score": 0.01
+                }
+            ]
+        },
+        {
+            "start": 0.77,
+            "end": 1.971,
+            "text": "Nếu bạn càng trẻ thì bạn càng không nên đầu tiên trứng khoán.",
+            "words": [
+                {
+                    "word": "Nếu",
+                    "start": 0.77,
+                    "end": 0.83,
+                    "score": 0.011
+                },
+                {
+                    "word": "bạn",
+                    "start": 0.85,
+                    "end": 0.91,
+                    "score": 0.01
+                },
+                {
+                    "word": "càng",
+                    "start": 0.93,
+                    "end": 1.01,
+                    "score": 0.011
+                },
+                {
+                    "word": "trẻ",
+                    "start": 1.03,
+                    "end": 1.09,
+                    "score": 0.01
+                },
+                {
+                    "word": "thì",
+                    "start": 1.11,
+                    "end": 1.17,
+                    "score": 0.01
+                },
+                {
+                    "word": "bạn",
+                    "start": 1.19,
+                    "end": 1.25,
+                    "score": 0.01
+                },
+                {
+                    "word": "càng",
+                    "start": 1.27,
+                    "end": 1.35,
+                    "score": 0.01
+                },
+                {
+                    "word": "không",
+                    "start": 1.37,
+                    "end": 1.47,
+                    "score": 0.011
+                },
+                {
+                    "word": "nên",
+                    "start": 1.49,
+                    "end": 1.55,
+                    "score": 0.01
+                },
+                {
+                    "word": "đầu",
+                    "start": 1.57,
+                    "end": 1.63,
+                    "score": 0.01
+                },
+                {
+                    "word": "tiên",
+                    "start": 1.65,
+                    "end": 1.731,
+                    "score": 0.01
+                },
+                {
+                    "word": "trứng",
+                    "start": 1.751,
+                    "end": 1.851,
+                    "score": 0.01
+                },
+                {
+                    "word": "khoán.",
+                    "start": 1.871,
+                    "end": 1.971,
+                    "score": 0.01
+                }
+            ]
+        },
+        {
+            "start": 1.991,
+            "end": 4.033,
+            "text": "Mình biết là hiện giờ trứng khoán đang là train, ai mà không biết đầu tiên trứng khoán tìm ảo là quê mồ.",
+            "words": [
+                {
+                    "word": "Mình",
+                    "start": 1.991,
+                    "end": 2.071,
+                    "score": 0.01
+                },
+                {
+                    "word": "biết",
+                    "start": 2.091,
+                    "end": 2.171,
+                    "score": 0.01
+                },
+                {
+                    "word": "là",
+                    "start": 2.191,
+                    "end": 2.231,
+                    "score": 0.01
+                },
+                {
+                    "word": "hiện",
+                    "start": 2.251,
+                    "end": 2.331,
+                    "score": 0.011
+                },
+                {
+                    "word": "giờ",
+                    "start": 2.351,
+                    "end": 2.411,
+                    "score": 0.011
+                },
+                {
+                    "word": "trứng",
+                    "start": 2.431,
+                    "end": 2.531,
+                    "score": 0.011
+                },
+                {
+                    "word": "khoán",
+                    "start": 2.551,
+                    "end": 2.651,
+                    "score": 0.01
+                },
+                {
+                    "word": "đang",
+                    "start": 2.671,
+                    "end": 2.751,
+                    "score": 0.011
+                },
+                {
+                    "word": "là",
+                    "start": 2.771,
+                    "end": 2.811,
+                    "score": 0.01
+                },
+                {
+                    "word": "train,",
+                    "start": 2.832,
+                    "end": 2.932,
+                    "score": 0.011
+                },
+                {
+                    "word": "ai",
+                    "start": 2.952,
+                    "end": 2.992,
+                    "score": 0.01
+                },
+                {
+                    "word": "mà",
+                    "start": 3.012,
+                    "end": 3.052,
+                    "score": 0.01
+                },
+                {
+                    "word": "không",
+                    "start": 3.072,
+                    "end": 3.172,
+                    "score": 0.01
+                },
+                {
+                    "word": "biết",
+                    "start": 3.192,
+                    "end": 3.272,
+                    "score": 0.011
+                },
+                {
+                    "word": "đầu",
+                    "start": 3.292,
+                    "end": 3.352,
+                    "score": 0.012
+                },
+                {
+                    "word": "tiên",
+                    "start": 3.372,
+                    "end": 3.452,
+                    "score": 0.011
+                },
+                {
+                    "word": "trứng",
+                    "start": 3.472,
+                    "end": 3.572,
+                    "score": 0.011
+                },
+                {
+                    "word": "khoán",
+                    "start": 3.592,
+                    "end": 3.692,
+                    "score": 0.011
+                },
+                {
+                    "word": "tìm",
+                    "start": 3.712,
+                    "end": 3.772,
+                    "score": 0.011
+                },
+                {
+                    "word": "ảo",
+                    "start": 3.792,
+                    "end": 3.832,
+                    "score": 0.01
+                },
+                {
+                    "word": "là",
+                    "start": 3.852,
+                    "end": 3.892,
+                    "score": 0.01
+                },
+                {
+                    "word": "quê",
+                    "start": 3.912,
+                    "end": 3.973,
+                    "score": 0.011
+                },
+                {
+                    "word": "mồ.",
+                    "start": 3.993,
+                    "end": 4.033,
+                    "score": 0.01
+                }
+            ]
+        },
+        {
+            "start": 4.053,
+            "end": 5.774,
+            "text": "Nhưng mà để mình chia sẻ 3 lý do vì sao mà mình nghĩ các bạn không nên chơi trứng khoán.",
+            "words": [
+                {
+                    "word": "Nhưng",
+                    "start": 4.053,
+                    "end": 4.153,
+                    "score": 0.01
+                },
+                {
+                    "word": "mà",
+                    "start": 4.173,
+                    "end": 4.213,
+                    "score": 0.01
+                },
+                {
+                    "word": "để",
+                    "start": 4.233,
+                    "end": 4.273,
+                    "score": 0.01
+                },
+                {
+                    "word": "mình",
+                    "start": 4.293,
+                    "end": 4.373,
+                    "score": 0.011
+                },
+                {
+                    "word": "chia",
+                    "start": 4.393,
+                    "end": 4.473,
+                    "score": 0.01
+                },
+                {
+                    "word": "sẻ",
+                    "start": 4.493,
+                    "end": 4.533,
+                    "score": 0.01
+                },
+                {
+                    "word": "3"
+                },
+                {
+                    "word": "lý",
+                    "start": 4.573,
+                    "end": 4.613,
+                    "score": 0.01
+                },
+                {
+                    "word": "do",
+                    "start": 4.633,
+                    "end": 4.673,
+                    "score": 0.011
+                },
+                {
+                    "word": "vì",
+                    "start": 4.693,
+                    "end": 4.733,
+                    "score": 0.01
+                },
+                {
+                    "word": "sao",
+                    "start": 4.753,
+                    "end": 4.813,
+                    "score": 0.011
+                },
+                {
+                    "word": "mà",
+                    "start": 4.833,
+                    "end": 4.873,
+                    "score": 0.01
+                },
+                {
+                    "word": "mình",
+                    "start": 4.893,
+                    "end": 4.973,
+                    "score": 0.011
+                },
+                {
+                    "word": "nghĩ",
+                    "start": 4.993,
+                    "end": 5.074,
+                    "score": 0.011
+                },
+                {
+                    "word": "các",
+                    "start": 5.094,
+                    "end": 5.154,
+                    "score": 0.012
+                },
+                {
+                    "word": "bạn",
+                    "start": 5.174,
+                    "end": 5.234,
+                    "score": 0.01
+                },
+                {
+                    "word": "không",
+                    "start": 5.254,
+                    "end": 5.354,
+                    "score": 0.011
+                },
+                {
+                    "word": "nên",
+                    "start": 5.374,
+                    "end": 5.434,
+                    "score": 0.011
+                },
+                {
+                    "word": "chơi",
+                    "start": 5.454,
+                    "end": 5.534,
+                    "score": 0.011
+                },
+                {
+                    "word": "trứng",
+                    "start": 5.554,
+                    "end": 5.654,
+                    "score": 0.011
+                },
+                {
+                    "word": "khoán.",
+                    "start": 5.674,
+                    "end": 5.774,
+                    "score": 0.01
+                }
+            ]
+        },
+        {
+            "start": 5.794,
+            "end": 7.316,
+            "text": "Thứ nhất, trứng khoán là zero sum game, tức là có người thắng sẽ có người thua.",
+            "words": [
+                {
+                    "word": "Thứ",
+                    "start": 5.794,
+                    "end": 5.854,
+                    "score": 0.01
+                },
+                {
+                    "word": "nhất,",
+                    "start": 5.874,
+                    "end": 5.954,
+                    "score": 0.01
+                },
+                {
+                    "word": "trứng",
+                    "start": 5.974,
+                    "end": 6.074,
+                    "score": 0.011
+                },
+                {
+                    "word": "khoán",
+                    "start": 6.094,
+                    "end": 6.195,
+                    "score": 0.01
+                },
+                {
+                    "word": "là",
+                    "start": 6.215,
+                    "end": 6.255,
+                    "score": 0.01
+                },
+                {
+                    "word": "zero",
+                    "start": 6.275,
+                    "end": 6.355,
+                    "score": 0.01
+                },
+                {
+                    "word": "sum",
+                    "start": 6.375,
+                    "end": 6.435,
+                    "score": 0.011
+                },
+                {
+                    "word": "game,",
+                    "start": 6.455,
+                    "end": 6.535,
+                    "score": 0.01
+                },
+                {
+                    "word": "tức",
+                    "start": 6.555,
+                    "end": 6.615,
+                    "score": 0.012
+                },
+                {
+                    "word": "là",
+                    "start": 6.635,
+                    "end": 6.675,
+                    "score": 0.01
+                },
+                {
+                    "word": "có",
+                    "start": 6.695,
+                    "end": 6.735,
+                    "score": 0.011
+                },
+                {
+                    "word": "người",
+                    "start": 6.755,
+                    "end": 6.855,
+                    "score": 0.01
+                },
+                {
+                    "word": "thắng",
+                    "start": 6.875,
+                    "end": 6.975,
+                    "score": 0.011
+                },
+                {
+                    "word": "sẽ",
+                    "start": 6.995,
+                    "end": 7.035,
+                    "score": 0.01
+                },
+                {
+                    "word": "có",
+                    "start": 7.055,
+                    "end": 7.095,
+                    "score": 0.01
+                },
+                {
+                    "word": "người",
+                    "start": 7.115,
+                    "end": 7.215,
+                    "score": 0.011
+                },
+                {
+                    "word": "thua.",
+                    "start": 7.235,
+                    "end": 7.316,
+                    "score": 0.01
+                }
+            ]
+        },
+        {
+            "start": 7.336,
+            "end": 9.838,
+            "text": "Đừng nghĩ là tại vì các bạn đọc được vài 3 cuốn sách, các bạn nghĩ là các bạn giỏi hơn thị trường để mà thắng được cái game này.",
+            "words": [
+                {
+                    "word": "Đừng",
+                    "start": 7.336,
+                    "end": 7.416,
+                    "score": 0.01
+                },
+                {
+                    "word": "nghĩ",
+                    "start": 7.436,
+                    "end": 7.516,
+                    "score": 0.011
+                },
+                {
+                    "word": "là",
+                    "start": 7.536,
+                    "end": 7.576,
+                    "score": 0.012
+                },
+                {
+                    "word": "tại",
+                    "start": 7.596,
+                    "end": 7.656,
+                    "score": 0.01
+                },
+                {
+                    "word": "vì",
+                    "start": 7.676,
+                    "end": 7.716,
+                    "score": 0.011
+                },
+                {
+                    "word": "các",
+                    "start": 7.736,
+                    "end": 7.796,
+                    "score": 0.009
+                },
+                {
+                    "word": "bạn",
+                    "start": 7.816,
+                    "end": 7.876,
+                    "score": 0.012
+                },
+                {
+                    "word": "đọc",
+                    "start": 7.896,
+                    "end": 7.956,
+                    "score": 0.009
+                },
+                {
+                    "word": "được",
+                    "start": 7.976,
+                    "end": 8.056,
+                    "score": 0.01
+                },
+                {
+                    "word": "vài",
+                    "start": 8.076,
+                    "end": 8.136,
+                    "score": 0.011
+                },
+                {
+                    "word": "3"
+                },
+                {
+                    "word": "cuốn",
+                    "start": 8.176,
+                    "end": 8.256,
+                    "score": 0.01
+                },
+                {
+                    "word": "sách,",
+                    "start": 8.276,
+                    "end": 8.356,
+                    "score": 0.01
+                },
+                {
+                    "word": "các",
+                    "start": 8.376,
+                    "end": 8.437,
+                    "score": 0.011
+                },
+                {
+                    "word": "bạn",
+                    "start": 8.457,
+                    "end": 8.517,
+                    "score": 0.01
+                },
+                {
+                    "word": "nghĩ",
+                    "start": 8.537,
+                    "end": 8.617,
+                    "score": 0.011
+                },
+                {
+                    "word": "là",
+                    "start": 8.637,
+                    "end": 8.677,
+                    "score": 0.012
+                },
+                {
+                    "word": "các",
+                    "start": 8.697,
+                    "end": 8.757,
+                    "score": 0.011
+                },
+                {
+                    "word": "bạn",
+                    "start": 8.777,
+                    "end": 8.837,
+                    "score": 0.011
+                },
+                {
+                    "word": "giỏi",
+                    "start": 8.857,
+                    "end": 8.937,
+                    "score": 0.011
+                },
+                {
+                    "word": "hơn",
+                    "start": 8.957,
+                    "end": 9.017,
+                    "score": 0.01
+                },
+                {
+                    "word": "thị",
+                    "start": 9.037,
+                    "end": 9.097,
+                    "score": 0.01
+                },
+                {
+                    "word": "trường",
+                    "start": 9.117,
+                    "end": 9.237,
+                    "score": 0.01
+                },
+                {
+                    "word": "để",
+                    "start": 9.257,
+                    "end": 9.297,
+                    "score": 0.01
+                },
+                {
+                    "word": "mà",
+                    "start": 9.317,
+                    "end": 9.357,
+                    "score": 0.01
+                },
+                {
+                    "word": "thắng",
+                    "start": 9.377,
+                    "end": 9.477,
+                    "score": 0.01
+                },
+                {
+                    "word": "được",
+                    "start": 9.497,
+                    "end": 9.578,
+                    "score": 0.01
+                },
+                {
+                    "word": "cái",
+                    "start": 9.598,
+                    "end": 9.658,
+                    "score": 0.012
+                },
+                {
+                    "word": "game",
+                    "start": 9.678,
+                    "end": 9.758,
+                    "score": 0.01
+                },
+                {
+                    "word": "này.",
+                    "start": 9.778,
+                    "end": 9.838,
+                    "score": 0.01
+                }
+            ]
+        },
+        {
+            "start": 9.858,
+            "end": 11.719,
+            "text": "Nhưng mà mình giả sở cho các bạn là các bạn rất giỏi luôn, các bạn đánh là thắng, đánh là thắng.",
+            "words": [
+                {
+                    "word": "Nhưng",
+                    "start": 9.858,
+                    "end": 9.958,
+                    "score": 0.01
+                },
+                {
+                    "word": "mà",
+                    "start": 9.978,
+                    "end": 10.018,
+                    "score": 0.008
+                },
+                {
+                    "word": "mình",
+                    "start": 10.038,
+                    "end": 10.118,
+                    "score": 0.01
+                },
+                {
+                    "word": "giả",
+                    "start": 10.138,
+                    "end": 10.198,
+                    "score": 0.011
+                },
+                {
+                    "word": "sở",
+                    "start": 10.218,
+                    "end": 10.258,
+                    "score": 0.012
+                },
+                {
+                    "word": "cho",
+                    "start": 10.278,
+                    "end": 10.338,
+                    "score": 0.01
+                },
+                {
+                    "word": "các",
+                    "start": 10.358,
+                    "end": 10.418,
+                    "score": 0.011
+                },
+                {
+                    "word": "bạn",
+                    "start": 10.438,
+                    "end": 10.498,
+                    "score": 0.011
+                },
+                {
+                    "word": "là",
+                    "start": 10.518,
+                    "end": 10.558,
+                    "score": 0.009
+                },
+                {
+                    "word": "các",
+                    "start": 10.578,
+                    "end": 10.638,
+                    "score": 0.011
+                },
+                {
+                    "word": "bạn",
+                    "start": 10.658,
+                    "end": 10.719,
+                    "score": 0.01
+                },
+                {
+                    "word": "rất",
+                    "start": 10.739,
+                    "end": 10.799,
+                    "score": 0.011
+                },
+                {
+                    "word": "giỏi",
+                    "start": 10.819,
+                    "end": 10.899,
+                    "score": 0.01
+                },
+                {
+                    "word": "luôn,",
+                    "start": 10.919,
+                    "end": 10.999,
+                    "score": 0.01
+                },
+                {
+                    "word": "các",
+                    "start": 11.019,
+                    "end": 11.079,
+                    "score": 0.011
+                },
+                {
+                    "word": "bạn",
+                    "start": 11.099,
+                    "end": 11.159,
+                    "score": 0.01
+                },
+                {
+                    "word": "đánh",
+                    "start": 11.179,
+                    "end": 11.259,
+                    "score": 0.011
+                },
+                {
+                    "word": "là",
+                    "start": 11.279,
+                    "end": 11.319,
+                    "score": 0.009
+                },
+                {
+                    "word": "thắng,",
+                    "start": 11.339,
+                    "end": 11.439,
+                    "score": 0.011
+                },
+                {
+                    "word": "đánh",
+                    "start": 11.459,
+                    "end": 11.539,
+                    "score": 0.011
+                },
+                {
+                    "word": "là",
+                    "start": 11.559,
+                    "end": 11.599,
+                    "score": 0.01
+                },
+                {
+                    "word": "thắng.",
+                    "start": 11.619,
+                    "end": 11.719,
+                    "score": 0.01
+                }
+            ]
+        },
+        {
+            "start": 22.449,
+            "end": 28.692,
+            "text": " Thì lý do thứ 2 là phần lớn các bạn sẽ không có đủ vốn để đầu tư để khi mà các bạn thắng, cái số tiền lời mà các bạn có được nó có ý nghĩa Mình giả sử các bạn có 50 triệu để đầu tư đi, các bạn đầu tư giỏi lắm, giỏi hơn Warren Buffett luôn, lời được 20% một năm Bạn lời được 10 triệu, 10 triệu nó có thay đổi vụ đỡ các bạn không?",
+            "words": [
+                {
+                    "word": "Thì",
+                    "start": 22.449,
+                    "end": 22.509,
+                    "score": 0.011
+                },
+                {
+                    "word": "lý",
+                    "start": 22.529,
+                    "end": 22.569,
+                    "score": 0.01
+                },
+                {
+                    "word": "do",
+                    "start": 22.589,
+                    "end": 22.629,
+                    "score": 0.011
+                },
+                {
+                    "word": "thứ",
+                    "start": 22.649,
+                    "end": 22.709,
+                    "score": 0.011
+                },
+                {
+                    "word": "2"
+                },
+                {
+                    "word": "là",
+                    "start": 22.749,
+                    "end": 22.789,
+                    "score": 0.011
+                },
+                {
+                    "word": "phần",
+                    "start": 22.809,
+                    "end": 22.889,
+                    "score": 0.009
+                },
+                {
+                    "word": "lớn",
+                    "start": 22.909,
+                    "end": 22.969,
+                    "score": 0.01
+                },
+                {
+                    "word": "các",
+                    "start": 22.989,
+                    "end": 23.049,
+                    "score": 0.01
+                },
+                {
+                    "word": "bạn",
+                    "start": 23.069,
+                    "end": 23.129,
+                    "score": 0.011
+                },
+                {
+                    "word": "sẽ",
+                    "start": 23.149,
+                    "end": 23.189,
+                    "score": 0.01
+                },
+                {
+                    "word": "không",
+                    "start": 23.209,
+                    "end": 23.309,
+                    "score": 0.01
+                },
+                {
+                    "word": "có",
+                    "start": 23.329,
+                    "end": 23.369,
+                    "score": 0.01
+                },
+                {
+                    "word": "đủ",
+                    "start": 23.389,
+                    "end": 23.429,
+                    "score": 0.009
+                },
+                {
+                    "word": "vốn",
+                    "start": 23.449,
+                    "end": 23.51,
+                    "score": 0.01
+                },
+                {
+                    "word": "để",
+                    "start": 23.53,
+                    "end": 23.57,
+                    "score": 0.01
+                },
+                {
+                    "word": "đầu",
+                    "start": 23.59,
+                    "end": 23.65,
+                    "score": 0.011
+                },
+                {
+                    "word": "tư",
+                    "start": 23.67,
+                    "end": 23.71,
+                    "score": 0.012
+                },
+                {
+                    "word": "để",
+                    "start": 23.73,
+                    "end": 23.77,
+                    "score": 0.012
+                },
+                {
+                    "word": "khi",
+                    "start": 23.79,
+                    "end": 23.85,
+                    "score": 0.011
+                },
+                {
+                    "word": "mà",
+                    "start": 23.87,
+                    "end": 23.91,
+                    "score": 0.01
+                },
+                {
+                    "word": "các",
+                    "start": 23.93,
+                    "end": 23.99,
+                    "score": 0.011
+                },
+                {
+                    "word": "bạn",
+                    "start": 24.01,
+                    "end": 24.07,
+                    "score": 0.011
+                },
+                {
+                    "word": "thắng,",
+                    "start": 24.09,
+                    "end": 24.19,
+                    "score": 0.01
+                },
+                {
+                    "word": "cái",
+                    "start": 24.21,
+                    "end": 24.27,
+                    "score": 0.011
+                },
+                {
+                    "word": "số",
+                    "start": 24.29,
+                    "end": 24.33,
+                    "score": 0.011
+                },
+                {
+                    "word": "tiền",
+                    "start": 24.35,
+                    "end": 24.43,
+                    "score": 0.012
+                },
+                {
+                    "word": "lời",
+                    "start": 24.45,
+                    "end": 24.51,
+                    "score": 0.011
+                },
+                {
+                    "word": "mà",
+                    "start": 24.53,
+                    "end": 24.57,
+                    "score": 0.01
+                },
+                {
+                    "word": "các",
+                    "start": 24.59,
+                    "end": 24.65,
+                    "score": 0.011
+                },
+                {
+                    "word": "bạn",
+                    "start": 24.67,
+                    "end": 24.73,
+                    "score": 0.01
+                },
+                {
+                    "word": "có",
+                    "start": 24.75,
+                    "end": 24.79,
+                    "score": 0.01
+                },
+                {
+                    "word": "được",
+                    "start": 24.81,
+                    "end": 24.89,
+                    "score": 0.01
+                },
+                {
+                    "word": "nó",
+                    "start": 24.91,
+                    "end": 24.95,
+                    "score": 0.01
+                },
+                {
+                    "word": "có",
+                    "start": 24.97,
+                    "end": 25.01,
+                    "score": 0.01
+                },
+                {
+                    "word": "ý",
+                    "start": 25.03,
+                    "end": 25.05,
+                    "score": 0.011
+                },
+                {
+                    "word": "nghĩa",
+                    "start": 25.07,
+                    "end": 25.17,
+                    "score": 0.011
+                },
+                {
+                    "word": "Mình",
+                    "start": 25.19,
+                    "end": 25.27,
+                    "score": 0.011
+                },
+                {
+                    "word": "giả",
+                    "start": 25.29,
+                    "end": 25.35,
+                    "score": 0.01
+                },
+                {
+                    "word": "sử",
+                    "start": 25.37,
+                    "end": 25.41,
+                    "score": 0.011
+                },
+                {
+                    "word": "các",
+                    "start": 25.43,
+                    "end": 25.49,
+                    "score": 0.011
+                },
+                {
+                    "word": "bạn",
+                    "start": 25.51,
+                    "end": 25.57,
+                    "score": 0.011
+                },
+                {
+                    "word": "có",
+                    "start": 25.59,
+                    "end": 25.631,
+                    "score": 0.012
+                },
+                {
+                    "word": "50"
+                },
+                {
+                    "word": "triệu",
+                    "start": 25.671,
+                    "end": 25.771,
+                    "score": 0.011
+                },
+                {
+                    "word": "để",
+                    "start": 25.791,
+                    "end": 25.831,
+                    "score": 0.01
+                },
+                {
+                    "word": "đầu",
+                    "start": 25.851,
+                    "end": 25.911,
+                    "score": 0.01
+                },
+                {
+                    "word": "tư",
+                    "start": 25.931,
+                    "end": 25.971,
+                    "score": 0.01
+                },
+                {
+                    "word": "đi,",
+                    "start": 25.991,
+                    "end": 26.031,
+                    "score": 0.01
+                },
+                {
+                    "word": "các",
+                    "start": 26.051,
+                    "end": 26.111,
+                    "score": 0.011
+                },
+                {
+                    "word": "bạn",
+                    "start": 26.131,
+                    "end": 26.191,
+                    "score": 0.01
+                },
+                {
+                    "word": "đầu",
+                    "start": 26.211,
+                    "end": 26.271,
+                    "score": 0.01
+                },
+                {
+                    "word": "tư",
+                    "start": 26.291,
+                    "end": 26.331,
+                    "score": 0.01
+                },
+                {
+                    "word": "giỏi",
+                    "start": 26.351,
+                    "end": 26.431,
+                    "score": 0.01
+                },
+                {
+                    "word": "lắm,",
+                    "start": 26.451,
+                    "end": 26.511,
+                    "score": 0.011
+                },
+                {
+                    "word": "giỏi",
+                    "start": 26.531,
+                    "end": 26.611,
+                    "score": 0.01
+                },
+                {
+                    "word": "hơn",
+                    "start": 26.631,
+                    "end": 26.691,
+                    "score": 0.01
+                },
+                {
+                    "word": "Warren",
+                    "start": 26.711,
+                    "end": 26.831,
+                    "score": 0.011
+                },
+                {
+                    "word": "Buffett",
+                    "start": 26.851,
+                    "end": 26.991,
+                    "score": 0.011
+                },
+                {
+                    "word": "luôn,",
+                    "start": 27.011,
+                    "end": 27.091,
+                    "score": 0.01
+                },
+                {
+                    "word": "lời",
+                    "start": 27.111,
+                    "end": 27.171,
+                    "score": 0.011
+                },
+                {
+                    "word": "được",
+                    "start": 27.191,
+                    "end": 27.271,
+                    "score": 0.01
+                },
+                {
+                    "word": "20%"
+                },
+                {
+                    "word": "một",
+                    "start": 27.311,
+                    "end": 27.371,
+                    "score": 0.011
+                },
+                {
+                    "word": "năm",
+                    "start": 27.391,
+                    "end": 27.451,
+                    "score": 0.011
+                },
+                {
+                    "word": "Bạn",
+                    "start": 27.471,
+                    "end": 27.531,
+                    "score": 0.012
+                },
+                {
+                    "word": "lời",
+                    "start": 27.551,
+                    "end": 27.611,
+                    "score": 0.011
+                },
+                {
+                    "word": "được",
+                    "start": 27.631,
+                    "end": 27.712,
+                    "score": 0.011
+                },
+                {
+                    "word": "10"
+                },
+                {
+                    "word": "triệu,",
+                    "start": 27.752,
+                    "end": 27.852,
+                    "score": 0.011
+                },
+                {
+                    "word": "10"
+                },
+                {
+                    "word": "triệu",
+                    "start": 27.892,
+                    "end": 27.992,
+                    "score": 0.01
+                },
+                {
+                    "word": "nó",
+                    "start": 28.012,
+                    "end": 28.052,
+                    "score": 0.01
+                },
+                {
+                    "word": "có",
+                    "start": 28.072,
+                    "end": 28.112,
+                    "score": 0.01
+                },
+                {
+                    "word": "thay",
+                    "start": 28.132,
+                    "end": 28.212,
+                    "score": 0.011
+                },
+                {
+                    "word": "đổi",
+                    "start": 28.232,
+                    "end": 28.292,
+                    "score": 0.01
+                },
+                {
+                    "word": "vụ",
+                    "start": 28.312,
+                    "end": 28.352,
+                    "score": 0.011
+                },
+                {
+                    "word": "đỡ",
+                    "start": 28.372,
+                    "end": 28.412,
+                    "score": 0.01
+                },
+                {
+                    "word": "các",
+                    "start": 28.432,
+                    "end": 28.492,
+                    "score": 0.011
+                },
+                {
+                    "word": "bạn",
+                    "start": 28.512,
+                    "end": 28.572,
+                    "score": 0.01
+                },
+                {
+                    "word": "không?",
+                    "start": 28.592,
+                    "end": 28.692,
+                    "score": 0.01
+                }
+            ]
+        },
+        {
+            "start": 28.712,
+            "end": 31.453,
+            "text": "Không, không một chút Và lý do thứ 3 thì hôm bữa mình kêu là thay vì các bạn đầu tư vào chiến khoán, các bạn hãy đầu tư vào bản thân các bạn",
+            "words": [
+                {
+                    "word": "Không,",
+                    "start": 28.712,
+                    "end": 28.812,
+                    "score": 0.01
+                },
+                {
+                    "word": "không",
+                    "start": 28.832,
+                    "end": 28.932,
+                    "score": 0.01
+                },
+                {
+                    "word": "một",
+                    "start": 28.952,
+                    "end": 29.012,
+                    "score": 0.011
+                },
+                {
+                    "word": "chút",
+                    "start": 29.032,
+                    "end": 29.112,
+                    "score": 0.011
+                },
+                {
+                    "word": "Và",
+                    "start": 29.132,
+                    "end": 29.172,
+                    "score": 0.01
+                },
+                {
+                    "word": "lý",
+                    "start": 29.192,
+                    "end": 29.232,
+                    "score": 0.011
+                },
+                {
+                    "word": "do",
+                    "start": 29.252,
+                    "end": 29.292,
+                    "score": 0.01
+                },
+                {
+                    "word": "thứ",
+                    "start": 29.312,
+                    "end": 29.372,
+                    "score": 0.011
+                },
+                {
+                    "word": "3"
+                },
+                {
+                    "word": "thì",
+                    "start": 29.412,
+                    "end": 29.472,
+                    "score": 0.011
+                },
+                {
+                    "word": "hôm",
+                    "start": 29.492,
+                    "end": 29.552,
+                    "score": 0.011
+                },
+                {
+                    "word": "bữa",
+                    "start": 29.572,
+                    "end": 29.632,
+                    "score": 0.01
+                },
+                {
+                    "word": "mình",
+                    "start": 29.652,
+                    "end": 29.732,
+                    "score": 0.011
+                },
+                {
+                    "word": "kêu",
+                    "start": 29.752,
+                    "end": 29.813,
+                    "score": 0.01
+                },
+                {
+                    "word": "là",
+                    "start": 29.833,
+                    "end": 29.873,
+                    "score": 0.01
+                },
+                {
+                    "word": "thay",
+                    "start": 29.893,
+                    "end": 29.973,
+                    "score": 0.011
+                },
+                {
+                    "word": "vì",
+                    "start": 29.993,
+                    "end": 30.033,
+                    "score": 0.012
+                },
+                {
+                    "word": "các",
+                    "start": 30.053,
+                    "end": 30.113,
+                    "score": 0.01
+                },
+                {
+                    "word": "bạn",
+                    "start": 30.133,
+                    "end": 30.193,
+                    "score": 0.01
+                },
+                {
+                    "word": "đầu",
+                    "start": 30.213,
+                    "end": 30.273,
+                    "score": 0.01
+                },
+                {
+                    "word": "tư",
+                    "start": 30.293,
+                    "end": 30.333,
+                    "score": 0.01
+                },
+                {
+                    "word": "vào",
+                    "start": 30.353,
+                    "end": 30.413,
+                    "score": 0.01
+                },
+                {
+                    "word": "chiến",
+                    "start": 30.433,
+                    "end": 30.533,
+                    "score": 0.011
+                },
+                {
+                    "word": "khoán,",
+                    "start": 30.553,
+                    "end": 30.653,
+                    "score": 0.012
+                },
+                {
+                    "word": "các",
+                    "start": 30.673,
+                    "end": 30.733,
+                    "score": 0.012
+                },
+                {
+                    "word": "bạn",
+                    "start": 30.753,
+                    "end": 30.813,
+                    "score": 0.011
+                },
+                {
+                    "word": "hãy",
+                    "start": 30.833,
+                    "end": 30.893,
+                    "score": 0.011
+                },
+                {
+                    "word": "đầu",
+                    "start": 30.913,
+                    "end": 30.973,
+                    "score": 0.011
+                },
+                {
+                    "word": "tư",
+                    "start": 30.993,
+                    "end": 31.033,
+                    "score": 0.01
+                },
+                {
+                    "word": "vào",
+                    "start": 31.053,
+                    "end": 31.113,
+                    "score": 0.01
+                },
+                {
+                    "word": "bản",
+                    "start": 31.133,
+                    "end": 31.193,
+                    "score": 0.01
+                },
+                {
+                    "word": "thân",
+                    "start": 31.213,
+                    "end": 31.293,
+                    "score": 0.011
+                },
+                {
+                    "word": "các",
+                    "start": 31.313,
+                    "end": 31.373,
+                    "score": 0.01
+                },
+                {
+                    "word": "bạn",
+                    "start": 31.393,
+                    "end": 31.453,
+                    "score": 0.01
+                }
+            ]
+        },
+        {
+            "start": 43.439,
+            "end": 50.023,
+            "text": " bỏ tiền ra để mà học thêm kỹ năng, học thêm kiếm thức các bạn nó sẽ lời nhiều hơn thì nhiều bạn không đồng ý kêu là đầu tư chứng khoán mới đúng đầu tư từ từ từ sớm nó sẽ chắc chắn là có lời không sai các bạn đầu tư chứng khoán từ sớm đầu tư từ từ chắc chắn là các bạn sẽ trở thành triệu phú lúc mà các bạn già, lúc mà các bạn 60 tuổi",
+            "words": [
+                {
+                    "word": "bỏ",
+                    "start": 43.439,
+                    "end": 43.479,
+                    "score": 0.01
+                },
+                {
+                    "word": "tiền",
+                    "start": 43.499,
+                    "end": 43.579,
+                    "score": 0.01
+                },
+                {
+                    "word": "ra",
+                    "start": 43.599,
+                    "end": 43.639,
+                    "score": 0.01
+                },
+                {
+                    "word": "để",
+                    "start": 43.659,
+                    "end": 43.699,
+                    "score": 0.01
+                },
+                {
+                    "word": "mà",
+                    "start": 43.719,
+                    "end": 43.759,
+                    "score": 0.01
+                },
+                {
+                    "word": "học",
+                    "start": 43.779,
+                    "end": 43.839,
+                    "score": 0.011
+                },
+                {
+                    "word": "thêm",
+                    "start": 43.859,
+                    "end": 43.939,
+                    "score": 0.012
+                },
+                {
+                    "word": "kỹ",
+                    "start": 43.959,
+                    "end": 43.999,
+                    "score": 0.011
+                },
+                {
+                    "word": "năng,",
+                    "start": 44.019,
+                    "end": 44.099,
+                    "score": 0.011
+                },
+                {
+                    "word": "học",
+                    "start": 44.119,
+                    "end": 44.179,
+                    "score": 0.01
+                },
+                {
+                    "word": "thêm",
+                    "start": 44.199,
+                    "end": 44.279,
+                    "score": 0.01
+                },
+                {
+                    "word": "kiếm",
+                    "start": 44.299,
+                    "end": 44.38,
+                    "score": 0.011
+                },
+                {
+                    "word": "thức",
+                    "start": 44.4,
+                    "end": 44.48,
+                    "score": 0.01
+                },
+                {
+                    "word": "các",
+                    "start": 44.5,
+                    "end": 44.56,
+                    "score": 0.01
+                },
+                {
+                    "word": "bạn",
+                    "start": 44.58,
+                    "end": 44.64,
+                    "score": 0.01
+                },
+                {
+                    "word": "nó",
+                    "start": 44.66,
+                    "end": 44.7,
+                    "score": 0.01
+                },
+                {
+                    "word": "sẽ",
+                    "start": 44.72,
+                    "end": 44.76,
+                    "score": 0.012
+                },
+                {
+                    "word": "lời",
+                    "start": 44.78,
+                    "end": 44.84,
+                    "score": 0.009
+                },
+                {
+                    "word": "nhiều",
+                    "start": 44.86,
+                    "end": 44.96,
+                    "score": 0.011
+                },
+                {
+                    "word": "hơn",
+                    "start": 44.98,
+                    "end": 45.04,
+                    "score": 0.01
+                },
+                {
+                    "word": "thì",
+                    "start": 45.06,
+                    "end": 45.12,
+                    "score": 0.011
+                },
+                {
+                    "word": "nhiều",
+                    "start": 45.14,
+                    "end": 45.24,
+                    "score": 0.01
+                },
+                {
+                    "word": "bạn",
+                    "start": 45.26,
+                    "end": 45.32,
+                    "score": 0.011
+                },
+                {
+                    "word": "không",
+                    "start": 45.34,
+                    "end": 45.44,
+                    "score": 0.01
+                },
+                {
+                    "word": "đồng",
+                    "start": 45.46,
+                    "end": 45.54,
+                    "score": 0.01
+                },
+                {
+                    "word": "ý",
+                    "start": 45.56,
+                    "end": 45.58,
+                    "score": 0.011
+                },
+                {
+                    "word": "kêu",
+                    "start": 45.6,
+                    "end": 45.66,
+                    "score": 0.01
+                },
+                {
+                    "word": "là",
+                    "start": 45.68,
+                    "end": 45.72,
+                    "score": 0.01
+                },
+                {
+                    "word": "đầu",
+                    "start": 45.74,
+                    "end": 45.8,
+                    "score": 0.011
+                },
+                {
+                    "word": "tư",
+                    "start": 45.82,
+                    "end": 45.86,
+                    "score": 0.012
+                },
+                {
+                    "word": "chứng",
+                    "start": 45.88,
+                    "end": 45.98,
+                    "score": 0.011
+                },
+                {
+                    "word": "khoán",
+                    "start": 46.0,
+                    "end": 46.1,
+                    "score": 0.011
+                },
+                {
+                    "word": "mới",
+                    "start": 46.12,
+                    "end": 46.181,
+                    "score": 0.011
+                },
+                {
+                    "word": "đúng",
+                    "start": 46.201,
+                    "end": 46.281,
+                    "score": 0.01
+                },
+                {
+                    "word": "đầu",
+                    "start": 46.301,
+                    "end": 46.361,
+                    "score": 0.011
+                },
+                {
+                    "word": "tư",
+                    "start": 46.381,
+                    "end": 46.421,
+                    "score": 0.009
+                },
+                {
+                    "word": "từ",
+                    "start": 46.441,
+                    "end": 46.481,
+                    "score": 0.011
+                },
+                {
+                    "word": "từ",
+                    "start": 46.501,
+                    "end": 46.541,
+                    "score": 0.01
+                },
+                {
+                    "word": "từ",
+                    "start": 46.561,
+                    "end": 46.601,
+                    "score": 0.012
+                },
+                {
+                    "word": "sớm",
+                    "start": 46.621,
+                    "end": 46.681,
+                    "score": 0.011
+                },
+                {
+                    "word": "nó",
+                    "start": 46.701,
+                    "end": 46.741,
+                    "score": 0.01
+                },
+                {
+                    "word": "sẽ",
+                    "start": 46.761,
+                    "end": 46.801,
+                    "score": 0.01
+                },
+                {
+                    "word": "chắc",
+                    "start": 46.821,
+                    "end": 46.901,
+                    "score": 0.01
+                },
+                {
+                    "word": "chắn",
+                    "start": 46.921,
+                    "end": 47.001,
+                    "score": 0.01
+                },
+                {
+                    "word": "là",
+                    "start": 47.021,
+                    "end": 47.061,
+                    "score": 0.01
+                },
+                {
+                    "word": "có",
+                    "start": 47.081,
+                    "end": 47.121,
+                    "score": 0.01
+                },
+                {
+                    "word": "lời",
+                    "start": 47.141,
+                    "end": 47.201,
+                    "score": 0.011
+                },
+                {
+                    "word": "không",
+                    "start": 47.221,
+                    "end": 47.321,
+                    "score": 0.01
+                },
+                {
+                    "word": "sai",
+                    "start": 47.341,
+                    "end": 47.401,
+                    "score": 0.01
+                },
+                {
+                    "word": "các",
+                    "start": 47.421,
+                    "end": 47.481,
+                    "score": 0.01
+                },
+                {
+                    "word": "bạn",
+                    "start": 47.501,
+                    "end": 47.561,
+                    "score": 0.012
+                },
+                {
+                    "word": "đầu",
+                    "start": 47.581,
+                    "end": 47.641,
+                    "score": 0.011
+                },
+                {
+                    "word": "tư",
+                    "start": 47.661,
+                    "end": 47.701,
+                    "score": 0.01
+                },
+                {
+                    "word": "chứng",
+                    "start": 47.721,
+                    "end": 47.821,
+                    "score": 0.011
+                },
+                {
+                    "word": "khoán",
+                    "start": 47.841,
+                    "end": 47.941,
+                    "score": 0.01
+                },
+                {
+                    "word": "từ",
+                    "start": 47.961,
+                    "end": 48.002,
+                    "score": 0.011
+                },
+                {
+                    "word": "sớm",
+                    "start": 48.022,
+                    "end": 48.082,
+                    "score": 0.011
+                },
+                {
+                    "word": "đầu",
+                    "start": 48.102,
+                    "end": 48.162,
+                    "score": 0.011
+                },
+                {
+                    "word": "tư",
+                    "start": 48.182,
+                    "end": 48.222,
+                    "score": 0.012
+                },
+                {
+                    "word": "từ",
+                    "start": 48.242,
+                    "end": 48.282,
+                    "score": 0.012
+                },
+                {
+                    "word": "từ",
+                    "start": 48.302,
+                    "end": 48.342,
+                    "score": 0.013
+                },
+                {
+                    "word": "chắc",
+                    "start": 48.362,
+                    "end": 48.442,
+                    "score": 0.01
+                },
+                {
+                    "word": "chắn",
+                    "start": 48.462,
+                    "end": 48.542,
+                    "score": 0.01
+                },
+                {
+                    "word": "là",
+                    "start": 48.562,
+                    "end": 48.602,
+                    "score": 0.008
+                },
+                {
+                    "word": "các",
+                    "start": 48.622,
+                    "end": 48.682,
+                    "score": 0.011
+                },
+                {
+                    "word": "bạn",
+                    "start": 48.702,
+                    "end": 48.762,
+                    "score": 0.01
+                },
+                {
+                    "word": "sẽ",
+                    "start": 48.782,
+                    "end": 48.822,
+                    "score": 0.01
+                },
+                {
+                    "word": "trở",
+                    "start": 48.842,
+                    "end": 48.902,
+                    "score": 0.01
+                },
+                {
+                    "word": "thành",
+                    "start": 48.922,
+                    "end": 49.022,
+                    "score": 0.011
+                },
+                {
+                    "word": "triệu",
+                    "start": 49.042,
+                    "end": 49.142,
+                    "score": 0.01
+                },
+                {
+                    "word": "phú",
+                    "start": 49.162,
+                    "end": 49.222,
+                    "score": 0.01
+                },
+                {
+                    "word": "lúc",
+                    "start": 49.242,
+                    "end": 49.302,
+                    "score": 0.011
+                },
+                {
+                    "word": "mà",
+                    "start": 49.322,
+                    "end": 49.362,
+                    "score": 0.01
+                },
+                {
+                    "word": "các",
+                    "start": 49.382,
+                    "end": 49.442,
+                    "score": 0.012
+                },
+                {
+                    "word": "bạn",
+                    "start": 49.462,
+                    "end": 49.522,
+                    "score": 0.01
+                },
+                {
+                    "word": "già,",
+                    "start": 49.542,
+                    "end": 49.602,
+                    "score": 0.012
+                },
+                {
+                    "word": "lúc",
+                    "start": 49.622,
+                    "end": 49.682,
+                    "score": 0.01
+                },
+                {
+                    "word": "mà",
+                    "start": 49.702,
+                    "end": 49.742,
+                    "score": 0.01
+                },
+                {
+                    "word": "các",
+                    "start": 49.762,
+                    "end": 49.823,
+                    "score": 0.01
+                },
+                {
+                    "word": "bạn",
+                    "start": 49.843,
+                    "end": 49.903,
+                    "score": 0.01
+                },
+                {
+                    "word": "60"
+                },
+                {
+                    "word": "tuổi",
+                    "start": 49.943,
+                    "end": 50.023,
+                    "score": 0.01
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Vì",
+            "start": 0.009,
+            "end": 0.049,
+            "score": 0.01
+        },
+        {
+            "word": "sao",
+            "start": 0.069,
+            "end": 0.129,
+            "score": 0.011
+        },
+        {
+            "word": "bạn",
+            "start": 0.149,
+            "end": 0.209,
+            "score": 0.01
+        },
+        {
+            "word": "không",
+            "start": 0.229,
+            "end": 0.329,
+            "score": 0.011
+        },
+        {
+            "word": "nên",
+            "start": 0.349,
+            "end": 0.409,
+            "score": 0.01
+        },
+        {
+            "word": "chơi",
+            "start": 0.429,
+            "end": 0.509,
+            "score": 0.01
+        },
+        {
+            "word": "trứng",
+            "start": 0.529,
+            "end": 0.63,
+            "score": 0.011
+        },
+        {
+            "word": "khoán?",
+            "start": 0.65,
+            "end": 0.75,
+            "score": 0.01
+        },
+        {
+            "word": "Nếu",
+            "start": 0.77,
+            "end": 0.83,
+            "score": 0.011
+        },
+        {
+            "word": "bạn",
+            "start": 0.85,
+            "end": 0.91,
+            "score": 0.01
+        },
+        {
+            "word": "càng",
+            "start": 0.93,
+            "end": 1.01,
+            "score": 0.011
+        },
+        {
+            "word": "trẻ",
+            "start": 1.03,
+            "end": 1.09,
+            "score": 0.01
+        },
+        {
+            "word": "thì",
+            "start": 1.11,
+            "end": 1.17,
+            "score": 0.01
+        },
+        {
+            "word": "bạn",
+            "start": 1.19,
+            "end": 1.25,
+            "score": 0.01
+        },
+        {
+            "word": "càng",
+            "start": 1.27,
+            "end": 1.35,
+            "score": 0.01
+        },
+        {
+            "word": "không",
+            "start": 1.37,
+            "end": 1.47,
+            "score": 0.011
+        },
+        {
+            "word": "nên",
+            "start": 1.49,
+            "end": 1.55,
+            "score": 0.01
+        },
+        {
+            "word": "đầu",
+            "start": 1.57,
+            "end": 1.63,
+            "score": 0.01
+        },
+        {
+            "word": "tiên",
+            "start": 1.65,
+            "end": 1.731,
+            "score": 0.01
+        },
+        {
+            "word": "trứng",
+            "start": 1.751,
+            "end": 1.851,
+            "score": 0.01
+        },
+        {
+            "word": "khoán.",
+            "start": 1.871,
+            "end": 1.971,
+            "score": 0.01
+        },
+        {
+            "word": "Mình",
+            "start": 1.991,
+            "end": 2.071,
+            "score": 0.01
+        },
+        {
+            "word": "biết",
+            "start": 2.091,
+            "end": 2.171,
+            "score": 0.01
+        },
+        {
+            "word": "là",
+            "start": 2.191,
+            "end": 2.231,
+            "score": 0.01
+        },
+        {
+            "word": "hiện",
+            "start": 2.251,
+            "end": 2.331,
+            "score": 0.011
+        },
+        {
+            "word": "giờ",
+            "start": 2.351,
+            "end": 2.411,
+            "score": 0.011
+        },
+        {
+            "word": "trứng",
+            "start": 2.431,
+            "end": 2.531,
+            "score": 0.011
+        },
+        {
+            "word": "khoán",
+            "start": 2.551,
+            "end": 2.651,
+            "score": 0.01
+        },
+        {
+            "word": "đang",
+            "start": 2.671,
+            "end": 2.751,
+            "score": 0.011
+        },
+        {
+            "word": "là",
+            "start": 2.771,
+            "end": 2.811,
+            "score": 0.01
+        },
+        {
+            "word": "train,",
+            "start": 2.832,
+            "end": 2.932,
+            "score": 0.011
+        },
+        {
+            "word": "ai",
+            "start": 2.952,
+            "end": 2.992,
+            "score": 0.01
+        },
+        {
+            "word": "mà",
+            "start": 3.012,
+            "end": 3.052,
+            "score": 0.01
+        },
+        {
+            "word": "không",
+            "start": 3.072,
+            "end": 3.172,
+            "score": 0.01
+        },
+        {
+            "word": "biết",
+            "start": 3.192,
+            "end": 3.272,
+            "score": 0.011
+        },
+        {
+            "word": "đầu",
+            "start": 3.292,
+            "end": 3.352,
+            "score": 0.012
+        },
+        {
+            "word": "tiên",
+            "start": 3.372,
+            "end": 3.452,
+            "score": 0.011
+        },
+        {
+            "word": "trứng",
+            "start": 3.472,
+            "end": 3.572,
+            "score": 0.011
+        },
+        {
+            "word": "khoán",
+            "start": 3.592,
+            "end": 3.692,
+            "score": 0.011
+        },
+        {
+            "word": "tìm",
+            "start": 3.712,
+            "end": 3.772,
+            "score": 0.011
+        },
+        {
+            "word": "ảo",
+            "start": 3.792,
+            "end": 3.832,
+            "score": 0.01
+        },
+        {
+            "word": "là",
+            "start": 3.852,
+            "end": 3.892,
+            "score": 0.01
+        },
+        {
+            "word": "quê",
+            "start": 3.912,
+            "end": 3.973,
+            "score": 0.011
+        },
+        {
+            "word": "mồ.",
+            "start": 3.993,
+            "end": 4.033,
+            "score": 0.01
+        },
+        {
+            "word": "Nhưng",
+            "start": 4.053,
+            "end": 4.153,
+            "score": 0.01
+        },
+        {
+            "word": "mà",
+            "start": 4.173,
+            "end": 4.213,
+            "score": 0.01
+        },
+        {
+            "word": "để",
+            "start": 4.233,
+            "end": 4.273,
+            "score": 0.01
+        },
+        {
+            "word": "mình",
+            "start": 4.293,
+            "end": 4.373,
+            "score": 0.011
+        },
+        {
+            "word": "chia",
+            "start": 4.393,
+            "end": 4.473,
+            "score": 0.01
+        },
+        {
+            "word": "sẻ",
+            "start": 4.493,
+            "end": 4.533,
+            "score": 0.01
+        },
+        {
+            "word": "3"
+        },
+        {
+            "word": "lý",
+            "start": 4.573,
+            "end": 4.613,
+            "score": 0.01
+        },
+        {
+            "word": "do",
+            "start": 4.633,
+            "end": 4.673,
+            "score": 0.011
+        },
+        {
+            "word": "vì",
+            "start": 4.693,
+            "end": 4.733,
+            "score": 0.01
+        },
+        {
+            "word": "sao",
+            "start": 4.753,
+            "end": 4.813,
+            "score": 0.011
+        },
+        {
+            "word": "mà",
+            "start": 4.833,
+            "end": 4.873,
+            "score": 0.01
+        },
+        {
+            "word": "mình",
+            "start": 4.893,
+            "end": 4.973,
+            "score": 0.011
+        },
+        {
+            "word": "nghĩ",
+            "start": 4.993,
+            "end": 5.074,
+            "score": 0.011
+        },
+        {
+            "word": "các",
+            "start": 5.094,
+            "end": 5.154,
+            "score": 0.012
+        },
+        {
+            "word": "bạn",
+            "start": 5.174,
+            "end": 5.234,
+            "score": 0.01
+        },
+        {
+            "word": "không",
+            "start": 5.254,
+            "end": 5.354,
+            "score": 0.011
+        },
+        {
+            "word": "nên",
+            "start": 5.374,
+            "end": 5.434,
+            "score": 0.011
+        },
+        {
+            "word": "chơi",
+            "start": 5.454,
+            "end": 5.534,
+            "score": 0.011
+        },
+        {
+            "word": "trứng",
+            "start": 5.554,
+            "end": 5.654,
+            "score": 0.011
+        },
+        {
+            "word": "khoán.",
+            "start": 5.674,
+            "end": 5.774,
+            "score": 0.01
+        },
+        {
+            "word": "Thứ",
+            "start": 5.794,
+            "end": 5.854,
+            "score": 0.01
+        },
+        {
+            "word": "nhất,",
+            "start": 5.874,
+            "end": 5.954,
+            "score": 0.01
+        },
+        {
+            "word": "trứng",
+            "start": 5.974,
+            "end": 6.074,
+            "score": 0.011
+        },
+        {
+            "word": "khoán",
+            "start": 6.094,
+            "end": 6.195,
+            "score": 0.01
+        },
+        {
+            "word": "là",
+            "start": 6.215,
+            "end": 6.255,
+            "score": 0.01
+        },
+        {
+            "word": "zero",
+            "start": 6.275,
+            "end": 6.355,
+            "score": 0.01
+        },
+        {
+            "word": "sum",
+            "start": 6.375,
+            "end": 6.435,
+            "score": 0.011
+        },
+        {
+            "word": "game,",
+            "start": 6.455,
+            "end": 6.535,
+            "score": 0.01
+        },
+        {
+            "word": "tức",
+            "start": 6.555,
+            "end": 6.615,
+            "score": 0.012
+        },
+        {
+            "word": "là",
+            "start": 6.635,
+            "end": 6.675,
+            "score": 0.01
+        },
+        {
+            "word": "có",
+            "start": 6.695,
+            "end": 6.735,
+            "score": 0.011
+        },
+        {
+            "word": "người",
+            "start": 6.755,
+            "end": 6.855,
+            "score": 0.01
+        },
+        {
+            "word": "thắng",
+            "start": 6.875,
+            "end": 6.975,
+            "score": 0.011
+        },
+        {
+            "word": "sẽ",
+            "start": 6.995,
+            "end": 7.035,
+            "score": 0.01
+        },
+        {
+            "word": "có",
+            "start": 7.055,
+            "end": 7.095,
+            "score": 0.01
+        },
+        {
+            "word": "người",
+            "start": 7.115,
+            "end": 7.215,
+            "score": 0.011
+        },
+        {
+            "word": "thua.",
+            "start": 7.235,
+            "end": 7.316,
+            "score": 0.01
+        },
+        {
+            "word": "Đừng",
+            "start": 7.336,
+            "end": 7.416,
+            "score": 0.01
+        },
+        {
+            "word": "nghĩ",
+            "start": 7.436,
+            "end": 7.516,
+            "score": 0.011
+        },
+        {
+            "word": "là",
+            "start": 7.536,
+            "end": 7.576,
+            "score": 0.012
+        },
+        {
+            "word": "tại",
+            "start": 7.596,
+            "end": 7.656,
+            "score": 0.01
+        },
+        {
+            "word": "vì",
+            "start": 7.676,
+            "end": 7.716,
+            "score": 0.011
+        },
+        {
+            "word": "các",
+            "start": 7.736,
+            "end": 7.796,
+            "score": 0.009
+        },
+        {
+            "word": "bạn",
+            "start": 7.816,
+            "end": 7.876,
+            "score": 0.012
+        },
+        {
+            "word": "đọc",
+            "start": 7.896,
+            "end": 7.956,
+            "score": 0.009
+        },
+        {
+            "word": "được",
+            "start": 7.976,
+            "end": 8.056,
+            "score": 0.01
+        },
+        {
+            "word": "vài",
+            "start": 8.076,
+            "end": 8.136,
+            "score": 0.011
+        },
+        {
+            "word": "3"
+        },
+        {
+            "word": "cuốn",
+            "start": 8.176,
+            "end": 8.256,
+            "score": 0.01
+        },
+        {
+            "word": "sách,",
+            "start": 8.276,
+            "end": 8.356,
+            "score": 0.01
+        },
+        {
+            "word": "các",
+            "start": 8.376,
+            "end": 8.437,
+            "score": 0.011
+        },
+        {
+            "word": "bạn",
+            "start": 8.457,
+            "end": 8.517,
+            "score": 0.01
+        },
+        {
+            "word": "nghĩ",
+            "start": 8.537,
+            "end": 8.617,
+            "score": 0.011
+        },
+        {
+            "word": "là",
+            "start": 8.637,
+            "end": 8.677,
+            "score": 0.012
+        },
+        {
+            "word": "các",
+            "start": 8.697,
+            "end": 8.757,
+            "score": 0.011
+        },
+        {
+            "word": "bạn",
+            "start": 8.777,
+            "end": 8.837,
+            "score": 0.011
+        },
+        {
+            "word": "giỏi",
+            "start": 8.857,
+            "end": 8.937,
+            "score": 0.011
+        },
+        {
+            "word": "hơn",
+            "start": 8.957,
+            "end": 9.017,
+            "score": 0.01
+        },
+        {
+            "word": "thị",
+            "start": 9.037,
+            "end": 9.097,
+            "score": 0.01
+        },
+        {
+            "word": "trường",
+            "start": 9.117,
+            "end": 9.237,
+            "score": 0.01
+        },
+        {
+            "word": "để",
+            "start": 9.257,
+            "end": 9.297,
+            "score": 0.01
+        },
+        {
+            "word": "mà",
+            "start": 9.317,
+            "end": 9.357,
+            "score": 0.01
+        },
+        {
+            "word": "thắng",
+            "start": 9.377,
+            "end": 9.477,
+            "score": 0.01
+        },
+        {
+            "word": "được",
+            "start": 9.497,
+            "end": 9.578,
+            "score": 0.01
+        },
+        {
+            "word": "cái",
+            "start": 9.598,
+            "end": 9.658,
+            "score": 0.012
+        },
+        {
+            "word": "game",
+            "start": 9.678,
+            "end": 9.758,
+            "score": 0.01
+        },
+        {
+            "word": "này.",
+            "start": 9.778,
+            "end": 9.838,
+            "score": 0.01
+        },
+        {
+            "word": "Nhưng",
+            "start": 9.858,
+            "end": 9.958,
+            "score": 0.01
+        },
+        {
+            "word": "mà",
+            "start": 9.978,
+            "end": 10.018,
+            "score": 0.008
+        },
+        {
+            "word": "mình",
+            "start": 10.038,
+            "end": 10.118,
+            "score": 0.01
+        },
+        {
+            "word": "giả",
+            "start": 10.138,
+            "end": 10.198,
+            "score": 0.011
+        },
+        {
+            "word": "sở",
+            "start": 10.218,
+            "end": 10.258,
+            "score": 0.012
+        },
+        {
+            "word": "cho",
+            "start": 10.278,
+            "end": 10.338,
+            "score": 0.01
+        },
+        {
+            "word": "các",
+            "start": 10.358,
+            "end": 10.418,
+            "score": 0.011
+        },
+        {
+            "word": "bạn",
+            "start": 10.438,
+            "end": 10.498,
+            "score": 0.011
+        },
+        {
+            "word": "là",
+            "start": 10.518,
+            "end": 10.558,
+            "score": 0.009
+        },
+        {
+            "word": "các",
+            "start": 10.578,
+            "end": 10.638,
+            "score": 0.011
+        },
+        {
+            "word": "bạn",
+            "start": 10.658,
+            "end": 10.719,
+            "score": 0.01
+        },
+        {
+            "word": "rất",
+            "start": 10.739,
+            "end": 10.799,
+            "score": 0.011
+        },
+        {
+            "word": "giỏi",
+            "start": 10.819,
+            "end": 10.899,
+            "score": 0.01
+        },
+        {
+            "word": "luôn,",
+            "start": 10.919,
+            "end": 10.999,
+            "score": 0.01
+        },
+        {
+            "word": "các",
+            "start": 11.019,
+            "end": 11.079,
+            "score": 0.011
+        },
+        {
+            "word": "bạn",
+            "start": 11.099,
+            "end": 11.159,
+            "score": 0.01
+        },
+        {
+            "word": "đánh",
+            "start": 11.179,
+            "end": 11.259,
+            "score": 0.011
+        },
+        {
+            "word": "là",
+            "start": 11.279,
+            "end": 11.319,
+            "score": 0.009
+        },
+        {
+            "word": "thắng,",
+            "start": 11.339,
+            "end": 11.439,
+            "score": 0.011
+        },
+        {
+            "word": "đánh",
+            "start": 11.459,
+            "end": 11.539,
+            "score": 0.011
+        },
+        {
+            "word": "là",
+            "start": 11.559,
+            "end": 11.599,
+            "score": 0.01
+        },
+        {
+            "word": "thắng.",
+            "start": 11.619,
+            "end": 11.719,
+            "score": 0.01
+        },
+        {
+            "word": "Thì",
+            "start": 22.449,
+            "end": 22.509,
+            "score": 0.011
+        },
+        {
+            "word": "lý",
+            "start": 22.529,
+            "end": 22.569,
+            "score": 0.01
+        },
+        {
+            "word": "do",
+            "start": 22.589,
+            "end": 22.629,
+            "score": 0.011
+        },
+        {
+            "word": "thứ",
+            "start": 22.649,
+            "end": 22.709,
+            "score": 0.011
+        },
+        {
+            "word": "2"
+        },
+        {
+            "word": "là",
+            "start": 22.749,
+            "end": 22.789,
+            "score": 0.011
+        },
+        {
+            "word": "phần",
+            "start": 22.809,
+            "end": 22.889,
+            "score": 0.009
+        },
+        {
+            "word": "lớn",
+            "start": 22.909,
+            "end": 22.969,
+            "score": 0.01
+        },
+        {
+            "word": "các",
+            "start": 22.989,
+            "end": 23.049,
+            "score": 0.01
+        },
+        {
+            "word": "bạn",
+            "start": 23.069,
+            "end": 23.129,
+            "score": 0.011
+        },
+        {
+            "word": "sẽ",
+            "start": 23.149,
+            "end": 23.189,
+            "score": 0.01
+        },
+        {
+            "word": "không",
+            "start": 23.209,
+            "end": 23.309,
+            "score": 0.01
+        },
+        {
+            "word": "có",
+            "start": 23.329,
+            "end": 23.369,
+            "score": 0.01
+        },
+        {
+            "word": "đủ",
+            "start": 23.389,
+            "end": 23.429,
+            "score": 0.009
+        },
+        {
+            "word": "vốn",
+            "start": 23.449,
+            "end": 23.51,
+            "score": 0.01
+        },
+        {
+            "word": "để",
+            "start": 23.53,
+            "end": 23.57,
+            "score": 0.01
+        },
+        {
+            "word": "đầu",
+            "start": 23.59,
+            "end": 23.65,
+            "score": 0.011
+        },
+        {
+            "word": "tư",
+            "start": 23.67,
+            "end": 23.71,
+            "score": 0.012
+        },
+        {
+            "word": "để",
+            "start": 23.73,
+            "end": 23.77,
+            "score": 0.012
+        },
+        {
+            "word": "khi",
+            "start": 23.79,
+            "end": 23.85,
+            "score": 0.011
+        },
+        {
+            "word": "mà",
+            "start": 23.87,
+            "end": 23.91,
+            "score": 0.01
+        },
+        {
+            "word": "các",
+            "start": 23.93,
+            "end": 23.99,
+            "score": 0.011
+        },
+        {
+            "word": "bạn",
+            "start": 24.01,
+            "end": 24.07,
+            "score": 0.011
+        },
+        {
+            "word": "thắng,",
+            "start": 24.09,
+            "end": 24.19,
+            "score": 0.01
+        },
+        {
+            "word": "cái",
+            "start": 24.21,
+            "end": 24.27,
+            "score": 0.011
+        },
+        {
+            "word": "số",
+            "start": 24.29,
+            "end": 24.33,
+            "score": 0.011
+        },
+        {
+            "word": "tiền",
+            "start": 24.35,
+            "end": 24.43,
+            "score": 0.012
+        },
+        {
+            "word": "lời",
+            "start": 24.45,
+            "end": 24.51,
+            "score": 0.011
+        },
+        {
+            "word": "mà",
+            "start": 24.53,
+            "end": 24.57,
+            "score": 0.01
+        },
+        {
+            "word": "các",
+            "start": 24.59,
+            "end": 24.65,
+            "score": 0.011
+        },
+        {
+            "word": "bạn",
+            "start": 24.67,
+            "end": 24.73,
+            "score": 0.01
+        },
+        {
+            "word": "có",
+            "start": 24.75,
+            "end": 24.79,
+            "score": 0.01
+        },
+        {
+            "word": "được",
+            "start": 24.81,
+            "end": 24.89,
+            "score": 0.01
+        },
+        {
+            "word": "nó",
+            "start": 24.91,
+            "end": 24.95,
+            "score": 0.01
+        },
+        {
+            "word": "có",
+            "start": 24.97,
+            "end": 25.01,
+            "score": 0.01
+        },
+        {
+            "word": "ý",
+            "start": 25.03,
+            "end": 25.05,
+            "score": 0.011
+        },
+        {
+            "word": "nghĩa",
+            "start": 25.07,
+            "end": 25.17,
+            "score": 0.011
+        },
+        {
+            "word": "Mình",
+            "start": 25.19,
+            "end": 25.27,
+            "score": 0.011
+        },
+        {
+            "word": "giả",
+            "start": 25.29,
+            "end": 25.35,
+            "score": 0.01
+        },
+        {
+            "word": "sử",
+            "start": 25.37,
+            "end": 25.41,
+            "score": 0.011
+        },
+        {
+            "word": "các",
+            "start": 25.43,
+            "end": 25.49,
+            "score": 0.011
+        },
+        {
+            "word": "bạn",
+            "start": 25.51,
+            "end": 25.57,
+            "score": 0.011
+        },
+        {
+            "word": "có",
+            "start": 25.59,
+            "end": 25.631,
+            "score": 0.012
+        },
+        {
+            "word": "50"
+        },
+        {
+            "word": "triệu",
+            "start": 25.671,
+            "end": 25.771,
+            "score": 0.011
+        },
+        {
+            "word": "để",
+            "start": 25.791,
+            "end": 25.831,
+            "score": 0.01
+        },
+        {
+            "word": "đầu",
+            "start": 25.851,
+            "end": 25.911,
+            "score": 0.01
+        },
+        {
+            "word": "tư",
+            "start": 25.931,
+            "end": 25.971,
+            "score": 0.01
+        },
+        {
+            "word": "đi,",
+            "start": 25.991,
+            "end": 26.031,
+            "score": 0.01
+        },
+        {
+            "word": "các",
+            "start": 26.051,
+            "end": 26.111,
+            "score": 0.011
+        },
+        {
+            "word": "bạn",
+            "start": 26.131,
+            "end": 26.191,
+            "score": 0.01
+        },
+        {
+            "word": "đầu",
+            "start": 26.211,
+            "end": 26.271,
+            "score": 0.01
+        },
+        {
+            "word": "tư",
+            "start": 26.291,
+            "end": 26.331,
+            "score": 0.01
+        },
+        {
+            "word": "giỏi",
+            "start": 26.351,
+            "end": 26.431,
+            "score": 0.01
+        },
+        {
+            "word": "lắm,",
+            "start": 26.451,
+            "end": 26.511,
+            "score": 0.011
+        },
+        {
+            "word": "giỏi",
+            "start": 26.531,
+            "end": 26.611,
+            "score": 0.01
+        },
+        {
+            "word": "hơn",
+            "start": 26.631,
+            "end": 26.691,
+            "score": 0.01
+        },
+        {
+            "word": "Warren",
+            "start": 26.711,
+            "end": 26.831,
+            "score": 0.011
+        },
+        {
+            "word": "Buffett",
+            "start": 26.851,
+            "end": 26.991,
+            "score": 0.011
+        },
+        {
+            "word": "luôn,",
+            "start": 27.011,
+            "end": 27.091,
+            "score": 0.01
+        },
+        {
+            "word": "lời",
+            "start": 27.111,
+            "end": 27.171,
+            "score": 0.011
+        },
+        {
+            "word": "được",
+            "start": 27.191,
+            "end": 27.271,
+            "score": 0.01
+        },
+        {
+            "word": "20%"
+        },
+        {
+            "word": "một",
+            "start": 27.311,
+            "end": 27.371,
+            "score": 0.011
+        },
+        {
+            "word": "năm",
+            "start": 27.391,
+            "end": 27.451,
+            "score": 0.011
+        },
+        {
+            "word": "Bạn",
+            "start": 27.471,
+            "end": 27.531,
+            "score": 0.012
+        },
+        {
+            "word": "lời",
+            "start": 27.551,
+            "end": 27.611,
+            "score": 0.011
+        },
+        {
+            "word": "được",
+            "start": 27.631,
+            "end": 27.712,
+            "score": 0.011
+        },
+        {
+            "word": "10"
+        },
+        {
+            "word": "triệu,",
+            "start": 27.752,
+            "end": 27.852,
+            "score": 0.011
+        },
+        {
+            "word": "10"
+        },
+        {
+            "word": "triệu",
+            "start": 27.892,
+            "end": 27.992,
+            "score": 0.01
+        },
+        {
+            "word": "nó",
+            "start": 28.012,
+            "end": 28.052,
+            "score": 0.01
+        },
+        {
+            "word": "có",
+            "start": 28.072,
+            "end": 28.112,
+            "score": 0.01
+        },
+        {
+            "word": "thay",
+            "start": 28.132,
+            "end": 28.212,
+            "score": 0.011
+        },
+        {
+            "word": "đổi",
+            "start": 28.232,
+            "end": 28.292,
+            "score": 0.01
+        },
+        {
+            "word": "vụ",
+            "start": 28.312,
+            "end": 28.352,
+            "score": 0.011
+        },
+        {
+            "word": "đỡ",
+            "start": 28.372,
+            "end": 28.412,
+            "score": 0.01
+        },
+        {
+            "word": "các",
+            "start": 28.432,
+            "end": 28.492,
+            "score": 0.011
+        },
+        {
+            "word": "bạn",
+            "start": 28.512,
+            "end": 28.572,
+            "score": 0.01
+        },
+        {
+            "word": "không?",
+            "start": 28.592,
+            "end": 28.692,
+            "score": 0.01
+        },
+        {
+            "word": "Không,",
+            "start": 28.712,
+            "end": 28.812,
+            "score": 0.01
+        },
+        {
+            "word": "không",
+            "start": 28.832,
+            "end": 28.932,
+            "score": 0.01
+        },
+        {
+            "word": "một",
+            "start": 28.952,
+            "end": 29.012,
+            "score": 0.011
+        },
+        {
+            "word": "chút",
+            "start": 29.032,
+            "end": 29.112,
+            "score": 0.011
+        },
+        {
+            "word": "Và",
+            "start": 29.132,
+            "end": 29.172,
+            "score": 0.01
+        },
+        {
+            "word": "lý",
+            "start": 29.192,
+            "end": 29.232,
+            "score": 0.011
+        },
+        {
+            "word": "do",
+            "start": 29.252,
+            "end": 29.292,
+            "score": 0.01
+        },
+        {
+            "word": "thứ",
+            "start": 29.312,
+            "end": 29.372,
+            "score": 0.011
+        },
+        {
+            "word": "3"
+        },
+        {
+            "word": "thì",
+            "start": 29.412,
+            "end": 29.472,
+            "score": 0.011
+        },
+        {
+            "word": "hôm",
+            "start": 29.492,
+            "end": 29.552,
+            "score": 0.011
+        },
+        {
+            "word": "bữa",
+            "start": 29.572,
+            "end": 29.632,
+            "score": 0.01
+        },
+        {
+            "word": "mình",
+            "start": 29.652,
+            "end": 29.732,
+            "score": 0.011
+        },
+        {
+            "word": "kêu",
+            "start": 29.752,
+            "end": 29.813,
+            "score": 0.01
+        },
+        {
+            "word": "là",
+            "start": 29.833,
+            "end": 29.873,
+            "score": 0.01
+        },
+        {
+            "word": "thay",
+            "start": 29.893,
+            "end": 29.973,
+            "score": 0.011
+        },
+        {
+            "word": "vì",
+            "start": 29.993,
+            "end": 30.033,
+            "score": 0.012
+        },
+        {
+            "word": "các",
+            "start": 30.053,
+            "end": 30.113,
+            "score": 0.01
+        },
+        {
+            "word": "bạn",
+            "start": 30.133,
+            "end": 30.193,
+            "score": 0.01
+        },
+        {
+            "word": "đầu",
+            "start": 30.213,
+            "end": 30.273,
+            "score": 0.01
+        },
+        {
+            "word": "tư",
+            "start": 30.293,
+            "end": 30.333,
+            "score": 0.01
+        },
+        {
+            "word": "vào",
+            "start": 30.353,
+            "end": 30.413,
+            "score": 0.01
+        },
+        {
+            "word": "chiến",
+            "start": 30.433,
+            "end": 30.533,
+            "score": 0.011
+        },
+        {
+            "word": "khoán,",
+            "start": 30.553,
+            "end": 30.653,
+            "score": 0.012
+        },
+        {
+            "word": "các",
+            "start": 30.673,
+            "end": 30.733,
+            "score": 0.012
+        },
+        {
+            "word": "bạn",
+            "start": 30.753,
+            "end": 30.813,
+            "score": 0.011
+        },
+        {
+            "word": "hãy",
+            "start": 30.833,
+            "end": 30.893,
+            "score": 0.011
+        },
+        {
+            "word": "đầu",
+            "start": 30.913,
+            "end": 30.973,
+            "score": 0.011
+        },
+        {
+            "word": "tư",
+            "start": 30.993,
+            "end": 31.033,
+            "score": 0.01
+        },
+        {
+            "word": "vào",
+            "start": 31.053,
+            "end": 31.113,
+            "score": 0.01
+        },
+        {
+            "word": "bản",
+            "start": 31.133,
+            "end": 31.193,
+            "score": 0.01
+        },
+        {
+            "word": "thân",
+            "start": 31.213,
+            "end": 31.293,
+            "score": 0.011
+        },
+        {
+            "word": "các",
+            "start": 31.313,
+            "end": 31.373,
+            "score": 0.01
+        },
+        {
+            "word": "bạn",
+            "start": 31.393,
+            "end": 31.453,
+            "score": 0.01
+        },
+        {
+            "word": "bỏ",
+            "start": 43.439,
+            "end": 43.479,
+            "score": 0.01
+        },
+        {
+            "word": "tiền",
+            "start": 43.499,
+            "end": 43.579,
+            "score": 0.01
+        },
+        {
+            "word": "ra",
+            "start": 43.599,
+            "end": 43.639,
+            "score": 0.01
+        },
+        {
+            "word": "để",
+            "start": 43.659,
+            "end": 43.699,
+            "score": 0.01
+        },
+        {
+            "word": "mà",
+            "start": 43.719,
+            "end": 43.759,
+            "score": 0.01
+        },
+        {
+            "word": "học",
+            "start": 43.779,
+            "end": 43.839,
+            "score": 0.011
+        },
+        {
+            "word": "thêm",
+            "start": 43.859,
+            "end": 43.939,
+            "score": 0.012
+        },
+        {
+            "word": "kỹ",
+            "start": 43.959,
+            "end": 43.999,
+            "score": 0.011
+        },
+        {
+            "word": "năng,",
+            "start": 44.019,
+            "end": 44.099,
+            "score": 0.011
+        },
+        {
+            "word": "học",
+            "start": 44.119,
+            "end": 44.179,
+            "score": 0.01
+        },
+        {
+            "word": "thêm",
+            "start": 44.199,
+            "end": 44.279,
+            "score": 0.01
+        },
+        {
+            "word": "kiếm",
+            "start": 44.299,
+            "end": 44.38,
+            "score": 0.011
+        },
+        {
+            "word": "thức",
+            "start": 44.4,
+            "end": 44.48,
+            "score": 0.01
+        },
+        {
+            "word": "các",
+            "start": 44.5,
+            "end": 44.56,
+            "score": 0.01
+        },
+        {
+            "word": "bạn",
+            "start": 44.58,
+            "end": 44.64,
+            "score": 0.01
+        },
+        {
+            "word": "nó",
+            "start": 44.66,
+            "end": 44.7,
+            "score": 0.01
+        },
+        {
+            "word": "sẽ",
+            "start": 44.72,
+            "end": 44.76,
+            "score": 0.012
+        },
+        {
+            "word": "lời",
+            "start": 44.78,
+            "end": 44.84,
+            "score": 0.009
+        },
+        {
+            "word": "nhiều",
+            "start": 44.86,
+            "end": 44.96,
+            "score": 0.011
+        },
+        {
+            "word": "hơn",
+            "start": 44.98,
+            "end": 45.04,
+            "score": 0.01
+        },
+        {
+            "word": "thì",
+            "start": 45.06,
+            "end": 45.12,
+            "score": 0.011
+        },
+        {
+            "word": "nhiều",
+            "start": 45.14,
+            "end": 45.24,
+            "score": 0.01
+        },
+        {
+            "word": "bạn",
+            "start": 45.26,
+            "end": 45.32,
+            "score": 0.011
+        },
+        {
+            "word": "không",
+            "start": 45.34,
+            "end": 45.44,
+            "score": 0.01
+        },
+        {
+            "word": "đồng",
+            "start": 45.46,
+            "end": 45.54,
+            "score": 0.01
+        },
+        {
+            "word": "ý",
+            "start": 45.56,
+            "end": 45.58,
+            "score": 0.011
+        },
+        {
+            "word": "kêu",
+            "start": 45.6,
+            "end": 45.66,
+            "score": 0.01
+        },
+        {
+            "word": "là",
+            "start": 45.68,
+            "end": 45.72,
+            "score": 0.01
+        },
+        {
+            "word": "đầu",
+            "start": 45.74,
+            "end": 45.8,
+            "score": 0.011
+        },
+        {
+            "word": "tư",
+            "start": 45.82,
+            "end": 45.86,
+            "score": 0.012
+        },
+        {
+            "word": "chứng",
+            "start": 45.88,
+            "end": 45.98,
+            "score": 0.011
+        },
+        {
+            "word": "khoán",
+            "start": 46.0,
+            "end": 46.1,
+            "score": 0.011
+        },
+        {
+            "word": "mới",
+            "start": 46.12,
+            "end": 46.181,
+            "score": 0.011
+        },
+        {
+            "word": "đúng",
+            "start": 46.201,
+            "end": 46.281,
+            "score": 0.01
+        },
+        {
+            "word": "đầu",
+            "start": 46.301,
+            "end": 46.361,
+            "score": 0.011
+        },
+        {
+            "word": "tư",
+            "start": 46.381,
+            "end": 46.421,
+            "score": 0.009
+        },
+        {
+            "word": "từ",
+            "start": 46.441,
+            "end": 46.481,
+            "score": 0.011
+        },
+        {
+            "word": "từ",
+            "start": 46.501,
+            "end": 46.541,
+            "score": 0.01
+        },
+        {
+            "word": "từ",
+            "start": 46.561,
+            "end": 46.601,
+            "score": 0.012
+        },
+        {
+            "word": "sớm",
+            "start": 46.621,
+            "end": 46.681,
+            "score": 0.011
+        },
+        {
+            "word": "nó",
+            "start": 46.701,
+            "end": 46.741,
+            "score": 0.01
+        },
+        {
+            "word": "sẽ",
+            "start": 46.761,
+            "end": 46.801,
+            "score": 0.01
+        },
+        {
+            "word": "chắc",
+            "start": 46.821,
+            "end": 46.901,
+            "score": 0.01
+        },
+        {
+            "word": "chắn",
+            "start": 46.921,
+            "end": 47.001,
+            "score": 0.01
+        },
+        {
+            "word": "là",
+            "start": 47.021,
+            "end": 47.061,
+            "score": 0.01
+        },
+        {
+            "word": "có",
+            "start": 47.081,
+            "end": 47.121,
+            "score": 0.01
+        },
+        {
+            "word": "lời",
+            "start": 47.141,
+            "end": 47.201,
+            "score": 0.011
+        },
+        {
+            "word": "không",
+            "start": 47.221,
+            "end": 47.321,
+            "score": 0.01
+        },
+        {
+            "word": "sai",
+            "start": 47.341,
+            "end": 47.401,
+            "score": 0.01
+        },
+        {
+            "word": "các",
+            "start": 47.421,
+            "end": 47.481,
+            "score": 0.01
+        },
+        {
+            "word": "bạn",
+            "start": 47.501,
+            "end": 47.561,
+            "score": 0.012
+        },
+        {
+            "word": "đầu",
+            "start": 47.581,
+            "end": 47.641,
+            "score": 0.011
+        },
+        {
+            "word": "tư",
+            "start": 47.661,
+            "end": 47.701,
+            "score": 0.01
+        },
+        {
+            "word": "chứng",
+            "start": 47.721,
+            "end": 47.821,
+            "score": 0.011
+        },
+        {
+            "word": "khoán",
+            "start": 47.841,
+            "end": 47.941,
+            "score": 0.01
+        },
+        {
+            "word": "từ",
+            "start": 47.961,
+            "end": 48.002,
+            "score": 0.011
+        },
+        {
+            "word": "sớm",
+            "start": 48.022,
+            "end": 48.082,
+            "score": 0.011
+        },
+        {
+            "word": "đầu",
+            "start": 48.102,
+            "end": 48.162,
+            "score": 0.011
+        },
+        {
+            "word": "tư",
+            "start": 48.182,
+            "end": 48.222,
+            "score": 0.012
+        },
+        {
+            "word": "từ",
+            "start": 48.242,
+            "end": 48.282,
+            "score": 0.012
+        },
+        {
+            "word": "từ",
+            "start": 48.302,
+            "end": 48.342,
+            "score": 0.013
+        },
+        {
+            "word": "chắc",
+            "start": 48.362,
+            "end": 48.442,
+            "score": 0.01
+        },
+        {
+            "word": "chắn",
+            "start": 48.462,
+            "end": 48.542,
+            "score": 0.01
+        },
+        {
+            "word": "là",
+            "start": 48.562,
+            "end": 48.602,
+            "score": 0.008
+        },
+        {
+            "word": "các",
+            "start": 48.622,
+            "end": 48.682,
+            "score": 0.011
+        },
+        {
+            "word": "bạn",
+            "start": 48.702,
+            "end": 48.762,
+            "score": 0.01
+        },
+        {
+            "word": "sẽ",
+            "start": 48.782,
+            "end": 48.822,
+            "score": 0.01
+        },
+        {
+            "word": "trở",
+            "start": 48.842,
+            "end": 48.902,
+            "score": 0.01
+        },
+        {
+            "word": "thành",
+            "start": 48.922,
+            "end": 49.022,
+            "score": 0.011
+        },
+        {
+            "word": "triệu",
+            "start": 49.042,
+            "end": 49.142,
+            "score": 0.01
+        },
+        {
+            "word": "phú",
+            "start": 49.162,
+            "end": 49.222,
+            "score": 0.01
+        },
+        {
+            "word": "lúc",
+            "start": 49.242,
+            "end": 49.302,
+            "score": 0.011
+        },
+        {
+            "word": "mà",
+            "start": 49.322,
+            "end": 49.362,
+            "score": 0.01
+        },
+        {
+            "word": "các",
+            "start": 49.382,
+            "end": 49.442,
+            "score": 0.012
+        },
+        {
+            "word": "bạn",
+            "start": 49.462,
+            "end": 49.522,
+            "score": 0.01
+        },
+        {
+            "word": "già,",
+            "start": 49.542,
+            "end": 49.602,
+            "score": 0.012
+        },
+        {
+            "word": "lúc",
+            "start": 49.622,
+            "end": 49.682,
+            "score": 0.01
+        },
+        {
+            "word": "mà",
+            "start": 49.702,
+            "end": 49.742,
+            "score": 0.01
+        },
+        {
+            "word": "các",
+            "start": 49.762,
+            "end": 49.823,
+            "score": 0.01
+        },
+        {
+            "word": "bạn",
+            "start": 49.843,
+            "end": 49.903,
+            "score": 0.01
+        },
+        {
+            "word": "60"
+        },
+        {
+            "word": "tuổi",
+            "start": 49.943,
+            "end": 50.023,
+            "score": 0.01
+        }
+    ]
+}
